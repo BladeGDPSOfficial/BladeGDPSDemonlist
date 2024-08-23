@@ -54,6 +54,12 @@
             "link": "https://youtu.be/u-VoEhrY9KA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "brapstu",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1276443644999503892/image.png?ex=66c98c48&is=66c83ac8&hm=c51d85230bd44335727658ec7b1c845bb651e833bfc969f074518860260330e5&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
