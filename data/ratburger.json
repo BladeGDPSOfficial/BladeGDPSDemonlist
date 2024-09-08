@@ -36,6 +36,12 @@
             "link": "https://youtu.be/CO7DWHorYms",
             "percent": 100,
             "hz": 240
+        },
+        {    
+            "user": "deepstrider2",
+            "link": "https://cdn.discordapp.com/attachments/946049906899046401/1282030970350075935/rat.mp4?ex=66de88a2&is=66dd3722&hm=4b7180917da1bfcdb5f58b8afa7347f650c5302a6e433026647359a35c8a6efd&",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
