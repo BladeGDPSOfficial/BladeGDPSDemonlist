@@ -1,0 +1,17 @@
+{
+    "id": 698,
+    "name": "Cumbia Rumble",
+    "author": "XBladeXGMD",
+    "creators": [],
+    "verifier": "XBladeXGMD",
+    "verification": "https://youtu.be/gjkHihQGcYw",
+    "percentToQualify": 81,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/gjkHihQGcYw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
