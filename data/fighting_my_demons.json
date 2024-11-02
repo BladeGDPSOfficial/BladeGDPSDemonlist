@@ -1,0 +1,25 @@
+{
+    "id": 670,
+    "name": "Fighting my Demons",
+    "author": "hayden",
+    "creators": ["zDark", 
+    "Flare", 
+    "Fawami", 
+    "morsey", 
+    "Mystikl",
+    "exho", 
+    "Hyperbeat", 
+    "nolli", 
+    "jz5"],
+    "verifier": "hayden",
+    "verification": "https://youtu.be/ffkls2FJhC0?si=uCdxBhaUwR3S_zsy",
+    "percentToQualify": 64,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/gMt8mUrcmHQ?si=Cha1-kHbvGSP_iiB",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
