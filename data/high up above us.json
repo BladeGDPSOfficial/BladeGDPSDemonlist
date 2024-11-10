@@ -7,6 +7,7 @@
     ],
     "verifier": "cinderrblock",
     "verification": "https://youtu.be/XH3kvGSzEJA",
+    "peak": 2,
     "percentToQualify": 75,
     "records": [
         {
