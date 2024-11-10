@@ -5,6 +5,7 @@
     "creators": ["molexular", "hexi"],
     "verifier": "molexular",
     "verification": "https://youtu.be/AZmQbCDr1VE?si=D-wqUUcjbpFQcnqU",
+    "peak": 39,
     "percentToQualify": 68,
     "records": [
         {
