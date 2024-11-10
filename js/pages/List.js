@@ -91,6 +91,10 @@ export default {
                     <div class="og">
                         <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
                     </div>
+                    <h3>Tags</h3>
+                    <p>
+                        🌟 -> Former Top 1
+                    </p>
                     <template v-if="editors">
                         <h3>List Editors</h3>
                         <ol class="editors">
