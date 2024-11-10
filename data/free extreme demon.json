@@ -7,6 +7,7 @@
     ],
     "verifier": "evil",
     "verification": "https://youtu.be/N4i8CXqRD8o?si=rOswh08EXxNqeWjP",
+    "peak": 1,
     "percentToQualify": 60,
     "records": [
         {
