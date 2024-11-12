@@ -15,12 +15,6 @@
             "hz": 360
         },
         {
-            "user": "nswish",
-            "link": "https://youtu.be/3-EVbp4_4yk",
-            "percent": 75,
-            "hz": 360
-        },
-        {
             "user": "coubitic",
             "link": "https://medal.tv/games/requested/clips/1CbTrl-dsgkDaN/d1337Usjtm63?invite=cr-MSxBRkEsMTg1OTA3NzIs",
             "percent": 100,
@@ -43,6 +37,12 @@
             "link": "https://drive.google.com/file/d/1LRJ8v8wVgaBxvrqIqAIen_iORYHlitIi/view?usp=drive_link",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "nswish",
+            "link": "https://youtu.be/8ZB2Yvme21E",
+            "percent": 100,
+            "hz": 400
         }
     ]
 }
