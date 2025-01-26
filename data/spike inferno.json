@@ -25,6 +25,18 @@
             "link": "https://www.youtube.com/watch?v=jxCKKvOHLS4&t=129s&pp=ygUIeHBsb2RldjI%3D",
             "percent": 100,
             "hz": 360
+        },
+        {    
+            "user": "MrTherapist",
+            "link": "https://www.youtube.com/watch?v=SkG57Yq7qmI",
+            "percent": 100,
+            "hz": 360
+        },
+        {    
+            "user": "Rae",
+            "link": "https://youtu.be/tOT4uWYHO0Y",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
