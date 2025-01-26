@@ -1,0 +1,24 @@
+{
+    "id": 718,
+    "name": "Chroma Machine",
+    "author": "Rae",
+    "creators": [],
+    "verifier": "Rae",
+    "verification": "https://youtu.be/odcK_6xFbIA",
+    "peak": 15,
+    "percentToQualify": 36,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=-ZW5rRf7jxo&start=3",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "evil",
+            "link": "https://youtu.be/G-gZmXqWxfk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
