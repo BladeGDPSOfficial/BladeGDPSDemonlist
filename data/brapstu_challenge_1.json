@@ -1,0 +1,24 @@
+{
+    "id": 703,
+    "name": "brapstu challenge 1",
+    "author": "brapstu",
+    "creators": [],
+    "verifier": "brapstu",
+    "verification": "https://youtu.be/cscLaqVY_D8",
+    "peak": 54,
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/BPWsSArLnP0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Rin",
+            "link": "https://youtu.be/LsM1g6QaEPQ?si=CRsVYyF37iy1XL7z",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
