@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/S0m5tZiSKGI",
     "peak": 1,
     "percentToQualify": 64,
-    "records": []
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/4sB_ji3E1tA?si=eLvoRQKFW13u_XVE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
