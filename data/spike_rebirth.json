@@ -1,0 +1,18 @@
+{
+    "id": 741,
+    "name": "Spike Rebirth",
+    "author": "Pixelo",
+    "creators": [],
+    "verifier": "brapstu",
+    "verification": "https://www.youtube.com/watch?v=5reE8sZVfhE",
+    "peak": 30,
+    "percentToQualify": 54,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://www.youtube.com/watch?v=5reE8sZVfhE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
