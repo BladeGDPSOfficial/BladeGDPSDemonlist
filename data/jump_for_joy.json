@@ -1,0 +1,18 @@
+{
+    "id": 735,
+    "name": "Jump For Joy",
+    "author": "1zapz2",
+    "creators": [],
+    "verifier": "1zapz2",
+    "verification": "https://youtu.be/CDjNihx_72M",
+    "peak": 99,
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "evil",
+            "link": "https://youtu.be/CDjNihx_72M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
