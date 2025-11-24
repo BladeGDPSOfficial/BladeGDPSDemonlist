@@ -43,6 +43,13 @@
             "link": "https://www.youtube.com/watch?v=zb_sipWwwx8&t=5s",
             "percent": 100,
             "hz": 360
+        },
+        {    
+            "user": "cinderrblock",
+            "link": "https://www.youtube.com/watch?v=9iAw0VpnYVI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
+
