@@ -3,8 +3,8 @@
     "name": "Heartbreaker",
     "author": "hayden",
     "creators": ["hayden", "flare", "zander12", "fae", "aos23", "kloone", "DJ JDK"],
-    "verifier": "Seismic",
-    "verification": "https://youtu.be/bnQ6a1Xn1sU?si=MWPtxjWTTZ8nSYcQ",
+    "verifier": "evil",
+    "verification": "https://youtu.be/AG5Tg_onnsA?si=hhcjlLv6FkXESu-L",
     "peak": 41,
     "percentToQualify": 68,
     "records": [
@@ -17,12 +17,6 @@
         {
             "user": "Rin",
             "link": "https://youtu.be/BqzvRUNnlFE?si=pNtM7wLDuo7yTo-M",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "evil",
-            "link": "https://youtu.be/yau-M2YyGAU",
             "percent": 100,
             "hz": 240
         }
