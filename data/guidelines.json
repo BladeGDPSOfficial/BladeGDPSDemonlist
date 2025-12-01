@@ -6,7 +6,7 @@
     "verifier": "evil",
     "verification": "https://youtu.be/Ln3uzJxQFI8",
     "peak": 10,
-    "percentToQualify": 45,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "ZorpikGMD",

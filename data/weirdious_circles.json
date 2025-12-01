@@ -1,0 +1,18 @@
+{
+    "id": 744,
+    "name": "weirdious circles",
+    "author": "brapstu",
+    "creators": [],
+    "verifier": "evil",
+    "verification": "https://youtu.be/bR6IXgn40JA?si=u69I0TEuObeqAMFW",
+    "peak": 31,
+    "percentToQualify": 84,
+    "records": [
+        {
+            "user": "HamsterPlayz",
+            "link": "https://youtu.be/6KCPIBJWJ4Q",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

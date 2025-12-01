@@ -6,7 +6,7 @@
     "verifier": "brapstu",
     "verification": "https://www.youtube.com/watch?v=5reE8sZVfhE",
     "peak": 30,
-    "percentToQualify": 54,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "evil",

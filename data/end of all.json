@@ -6,7 +6,7 @@
     "verifier": "Shadow",
     "verification": "https://youtu.be/Ut7YpRlGp9M",
     "peak": 22,
-    "percentToQualify": 60,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "evil",

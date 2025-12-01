@@ -6,7 +6,7 @@
     "verifier": "XBladeXGMD",
     "verification": "https://youtu.be/pTXlxiT6TPY",
     "peak": 32,
-    "percentToQualify": 64,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "evil",

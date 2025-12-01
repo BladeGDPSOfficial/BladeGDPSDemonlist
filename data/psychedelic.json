@@ -6,7 +6,7 @@
     "verifier": "molexular",
     "verification": "https://youtu.be/Z2iOlXahv_Y",
     "peak": 3,
-    "percentToQualify": 55,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "evil",

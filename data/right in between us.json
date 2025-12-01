@@ -8,7 +8,7 @@
     "verifier": "cinderrblock",
     "verification": "https://youtu.be/SOkPsxSgl1o",
     "peak": 10,
-    "percentToQualify": 62,
+    "percentToQualify": 100,
     "records": [
         {
             "user": "evil",
